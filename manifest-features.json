@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://app-features-spec/feature_spec.json"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON"
+    }
+}

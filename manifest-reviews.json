@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "s3://jan31-test-bucket/reviews-quicksight.json"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "JSON"
+  }
+}
