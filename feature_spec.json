@@ -1,59 +1,61 @@
 [
-    {
-        "category": "Summaries",
-        "keywords": [
-            "summary",
-            "summaries",
-            "context",
-            "details",
-            "update"
-        ],
-        "possible_issues": [
-            "Lacks context from longer email chains and discussions",
-            "Important details missing after update"
-        ],
-        "severity": "high"
-    },
-    {
-        "category": "Insights",
-        "keywords": [
-            "insight",
-            "insights",
-            "useful",
-            "engagement"
-        ],
-        "possible_issues": [
-            "Not useful enough to keep checking the app",
-            "Users stop using after initial setup"
-        ],
-        "severity": "medium"
-    },
-    {
-        "category": "Recommendations",
-        "keywords": [
-            "recommendation",
-            "recommendations",
-            "solution",
-            "generic",
-            "sophisticated"
-        ],
-        "possible_issues": [
-            "Solutions feel generic",
-            "Users expecting more sophisticated suggestions"
-        ],
-        "severity": "medium"
-    },
-    {
-        "category": "Accuracy",
-        "keywords": [
-            "double-check",
-            "accuracy",
-            "details",
-            "data"
-        ],
-        "possible_issues": [
-            "Users still need to double-check most of the data manually"
-        ],
-        "severity": "high"
-    }
-] 
+  {
+    "category": "Summaries",
+    "keywords": [
+      "context",
+      "details",
+      "missing",
+      "accuracy"
+    ],
+    "possible_issues": [
+      "Summaries lack context from longer email chains and discussions",
+      "Important details from emails and meetings are often missing from summaries",
+      "Key replies and decisions in long threads are skipped in summaries",
+      "Summaries ignore the latest messages and leave out deadlines"
+    ],
+    "severity": "high",
+    "use_count": 8
+  },
+  {
+    "category": "Insights",
+    "keywords": [
+      "helpful",
+      "prioritize",
+      "useful"
+    ],
+    "possible_issues": [
+      "Insights have been surprisingly useful for catching up fast and prioritizing tasks",
+      "Insights consistently surface the busiest days, overdue tasks, and threads to respond to"
+    ],
+    "severity": "low",
+    "use_count": 3
+  },
+  {
+    "category": "Recommendations",
+    "keywords": [
+      "generic",
+      "useless",
+      "tailored"
+    ],
+    "possible_issues": [
+      "Recommendations feel overly generic and not tailored to the user's emails",
+      "Recommendations can be hit-or-miss, with some being genuinely valuable"
+    ],
+    "severity": "medium",
+    "use_count": 3
+  },
+  {
+    "category": "Accuracy",
+    "keywords": [
+      "wrong",
+      "verify",
+      "issues"
+    ],
+    "possible_issues": [
+      "The app regularly mixes up names and deadlines, attributing tasks to the wrong person",
+      "The app has pulled the wrong date from a thread more than once, requiring verification"
+    ],
+    "severity": "medium",
+    "use_count": 3
+  }
+]
