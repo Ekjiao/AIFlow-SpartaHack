@@ -1,0 +1,50 @@
+[
+    {
+        "review_id": "1",
+        "title": "Summaries Lack Context",
+        "review": "The summaries look polished, but they lack context from longer email chains and discussions.",
+        "rating": "3",
+        "username": "TheBeagles",
+        "timestamp": "2026-01-1"
+    },
+    {
+        "review_id": "2",
+        "title": "Useless Insights",
+        "review": "I didn't really find the insights useful enough to keep checking the app after the initial setup.",
+        "rating": "1",
+        "username": "PugLife",
+        "timestamp": "2026-01-5"
+    },
+    {
+        "review_id": "3",
+        "title": "Generic Suggestions",
+        "review": "I expected more sophisticated recommendations, but the solutions feel generic.",
+        "rating": "2",
+        "username": "NopawdyImportant",
+        "timestamp": "2026-01-3"
+    },
+    {
+        "review_id": "4",
+        "title": "Constantly Double Checking Data",
+        "review": "I save some time using this app, but I still need to double-check most of the data myself.",
+        "rating": "4",
+        "username": "CollieFlower",
+        "timestamp": "2026-01-4"
+    },
+    {
+        "review_id": "5",
+        "title": "Worse After Update",
+        "review": "After the latest update, the summaries got much worse. Important details from my emails and meetings are often missing from them.",
+        "rating": "2",
+        "username": "TheBeagles",
+        "timestamp": "2026-01-15"
+    },
+    {
+        "review_id": "6",
+        "title": "Great App",
+        "review": "I really love this app! The summaries are so good!",
+        "rating": "5",
+        "username": "PawPatrol",
+        "timestamp": "2026-01-16"
+    }
+]

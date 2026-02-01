@@ -1,0 +1,47 @@
+[
+  {
+    "ticket_id": "1",
+    "customer": {
+      "name": "TheBeagles",
+      "email": "TheBeagles@gmail.com",
+      "phone": "555-123-4567"
+    },
+    "subject": "Feature suggestions from Purrview are too generic",
+    "description": "When asking the agentic interface for improvement recommendations, the suggestions are overly generic and not actionable.",
+    "status": "open",
+    "priority": "critical",
+    "assigned_to": "agent_101",
+    "created_at": "2026-01-02T09:15:00Z",
+    "updated_at": "2026-01-02T10:00:00Z"
+  },
+  {
+    "ticket_id": "2",
+    "customer": {
+      "name": "PugLife",
+      "email": "PugLife@gmail.com",
+      "phone": "555-234-5678"
+    },
+    "subject": "Unable to retrieve answers from Google Docs",
+    "description": "When asking Purrview to summarize information from my Google Docs, some documents are not being read or included in the results.",
+    "status": "open",
+    "priority": "critical",
+    "assigned_to": "agent_102",
+    "created_at": "2026-01-03T11:30:00Z",
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "ticket_id": "3",
+    "customer": {
+      "name": "CollieFlower",
+      "email": "CollieFlower@gmail.com",
+      "phone": "555-345-6789"
+    },
+    "subject": "Answers incomplete or missing context",
+    "description": "Purrview sometimes provides answers to my questions that lack important details from emails or notes.",
+    "status": "in_progress",
+    "priority": "high",
+    "assigned_to": "agent_103",
+    "created_at": "2026-01-05T14:20:00Z",
+    "updated_at": "2026-01-05T15:00:00Z"
+  }
+]

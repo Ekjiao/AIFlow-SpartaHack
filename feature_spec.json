@@ -1,0 +1,59 @@
+[
+    {
+        "category": "Summaries",
+        "keywords": [
+            "summary",
+            "summaries",
+            "context",
+            "details",
+            "update"
+        ],
+        "possible_issues": [
+            "Lacks context from longer email chains and discussions",
+            "Important details missing after update"
+        ],
+        "severity": "high"
+    },
+    {
+        "category": "Insights",
+        "keywords": [
+            "insight",
+            "insights",
+            "useful",
+            "engagement"
+        ],
+        "possible_issues": [
+            "Not useful enough to keep checking the app",
+            "Users stop using after initial setup"
+        ],
+        "severity": "medium"
+    },
+    {
+        "category": "Recommendations",
+        "keywords": [
+            "recommendation",
+            "recommendations",
+            "solution",
+            "generic",
+            "sophisticated"
+        ],
+        "possible_issues": [
+            "Solutions feel generic",
+            "Users expecting more sophisticated suggestions"
+        ],
+        "severity": "medium"
+    },
+    {
+        "category": "Accuracy",
+        "keywords": [
+            "double-check",
+            "accuracy",
+            "details",
+            "data"
+        ],
+        "possible_issues": [
+            "Users still need to double-check most of the data manually"
+        ],
+        "severity": "high"
+    }
+] 
