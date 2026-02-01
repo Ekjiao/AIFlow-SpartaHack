@@ -1,50 +1,130 @@
 [
-    {
-        "review_id": "1",
-        "title": "Summaries Lack Context",
-        "review": "The summaries look polished, but they lack context from longer email chains and discussions.",
-        "rating": "3",
-        "username": "TheBeagles",
-        "timestamp": "2026-01-1"
-    },
-    {
-        "review_id": "2",
-        "title": "Useless Insights",
-        "review": "I didn't really find the insights useful enough to keep checking the app after the initial setup.",
-        "rating": "1",
-        "username": "PugLife",
-        "timestamp": "2026-01-5"
-    },
-    {
-        "review_id": "3",
-        "title": "Generic Suggestions",
-        "review": "I expected more sophisticated recommendations, but the solutions feel generic.",
-        "rating": "2",
-        "username": "NopawdyImportant",
-        "timestamp": "2026-01-3"
-    },
-    {
-        "review_id": "4",
-        "title": "Constantly Double Checking Data",
-        "review": "I save some time using this app, but I still need to double-check most of the data myself.",
-        "rating": "4",
-        "username": "CollieFlower",
-        "timestamp": "2026-01-4"
-    },
-    {
-        "review_id": "5",
-        "title": "Worse After Update",
-        "review": "After the latest update, the summaries got much worse. Important details from my emails and meetings are often missing from them.",
-        "rating": "2",
-        "username": "TheBeagles",
-        "timestamp": "2026-01-15"
-    },
-    {
-        "review_id": "6",
-        "title": "Great App",
-        "review": "I really love this app! The summaries are so good!",
-        "rating": "5",
-        "username": "PawPatrol",
-        "timestamp": "2026-01-16"
-    }
+  {
+      "review_id": "1",
+      "title": "Summaries Lack Context",
+      "review": "The summaries look polished, but they lack context from longer email chains and discussions.",
+      "rating": 3,
+      "username": "TheBeagles",
+      "timestamp": "2026-01-01"
+  },
+  {
+      "review_id": "2",
+      "title": "Great Insights",
+      "review": "I found that the insights were extremely helpful.",
+      "rating": 1,
+      "username": "PugLife",
+      "timestamp": "2026-01-05"
+  },
+  {
+      "review_id": "3",
+      "title": "Generic Suggestions",
+      "review": "I expected more sophisticated recommendations, but the solutions feel generic.",
+      "rating": 2,
+      "username": "NopawdyImportant",
+      "timestamp": "2026-01-03"
+  },
+  {
+      "review_id": "4",
+      "title": "Constantly Double Checking Data",
+      "review": "I save some time using this app, but I still need to double-check most of the data myself.",
+      "rating": 4,
+      "username": "CollieFlower",
+      "timestamp": "2026-01-04"
+  },
+  {
+      "review_id": "5",
+      "title": "Worse After Update",
+      "review": "After the latest update, the summaries got much worse. Important details from my emails and meetings are often missing from them.",
+      "rating": 2,
+      "username": "TheBeagles",
+      "timestamp": "2026-01-15"
+  },
+  {
+    "review_id": "7",
+    "title": "Summaries Are Missing Critical Context",
+    "review": "Email and meeting summaries keep skipping key replies and decisions in long threads. I’ve had multiple cases where action items were completely missing, so I can’t rely on it without reading everything again.",
+    "rating": "1",
+    "username": "ShibaSheriff",
+    "timestamp": "2026-01-18"
+  },
+  {
+    "review_id": "8",
+    "title": "Summaries Got Worse After the Update",
+    "review": "Since the last update, summaries are noticeably worse. They often ignore the latest messages and leave out deadlines. This used to be usable, but now it’s broken for my workflow.",
+    "rating": "1",
+    "username": "SpanielScout",
+    "timestamp": "2026-01-19"
+  },
+  {
+    "review_id": "9",
+    "title": "Great Summaries for Quick Catch-Up",
+    "review": "The summaries are consistently excellent for catching up fast. They pull out the right decisions and action items most of the time, and I rarely need to open the original email thread.",
+    "rating": "5",
+    "username": "LabLover",
+    "timestamp": "2026-01-20"
+  },
+  {
+    "review_id": "11",
+    "title": "Insights Help Me Prioritize My Week",
+    "review": "The insights have been surprisingly useful. They consistently surface the busiest days, overdue tasks, and threads I should respond to. I check it every morning.",
+    "rating": "5",
+    "username": "PoodlePlanner",
+    "timestamp": "2026-01-21"
+  },
+  {
+    "review_id": "12",
+    "title": "Recommendations Feel Generic and Useless",
+    "review": "The recommendations are overly generic (“follow up more”, “organize your inbox”). Nothing is tailored to what’s actually in my emails, so it’s not actionable.",
+    "rating": "2",
+    "username": "CorgiCommander",
+    "timestamp": "2026-01-22"
+  },
+  {
+    "review_id": "13",
+    "title": "Recommendations Actually Saved Me Time",
+    "review": "A couple recommendations were spot on and helped me automate recurring follow-ups. I wish there were more like that, but the good ones were genuinely valuable.",
+    "rating": "4",
+    "username": "MalamuteMemo",
+    "timestamp": "2026-01-22"
+  },
+  {
+    "review_id": "14",
+    "title": "Accuracy Issues: Wrong Names and Dates",
+    "review": "The app regularly mixes up names and deadlines. Twice it attributed tasks to the wrong person, and it’s pulled the wrong date from a thread more than once. I have to verify almost everything.",
+    "rating": "1",
+    "username": "KelpieKeeper",
+    "timestamp": "2026-01-23"
+  },
+  {
+    "review_id": "15",
+    "title": "Accuracy Is Solid for Me",
+    "review": "I haven’t noticed many accuracy problems. When I compare the summaries to the original messages, they’re usually correct and the key details match.",
+    "rating": "5",
+    "username": "RetrieverReader",
+    "timestamp": "2026-01-23"
+  },
+  {
+    "review_id": "16",
+    "title": "Good App Overall, But Some Rough Edges",
+    "review": "Overall it’s useful and saves time, but some features are inconsistent. Summaries vary depending on thread length, and recommendations can be hit-or-miss.",
+    "rating": "3",
+    "username": "DoodleDev",
+    "timestamp": "2026-01-24"
+  },
+  {
+    "review_id": "17",
+    "title": "Summaries Are Great, Recommendations Are Meh",
+    "review": "I love the summaries and use them daily, but the recommendations still feel too generic. If recommendations improved, this would be a 5-star app.",
+    "rating": "4",
+    "username": "SheltieSpeed",
+    "timestamp": "2026-01-25"
+  },
+  {
+    "review_id": "18",
+    "title": "Insights Are Fine, Not Amazing",
+    "review": "Insights are okay for a quick glance, but they don’t consistently highlight the most important items. I check them sometimes, but not every day.",
+    "rating": "3",
+    "username": "BeagleByte",
+    "timestamp": "2026-01-26"
+  }
 ]

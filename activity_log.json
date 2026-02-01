@@ -1,0 +1,263 @@
+[
+  {
+    "event_id": "evt_000001",
+    "timestamp": "2025-12-20T14:12:09Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_9f21a1",
+    "event_type": "app_open",
+    "feature": "app"
+  },
+  {
+    "event_id": "evt_000002",
+    "timestamp": "2025-12-20T14:12:41Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_9f21a1",
+    "event_type": "feature_open",
+    "feature": "email_summary"
+  },
+  {
+    "event_id": "evt_000003",
+    "timestamp": "2025-12-20T14:13:05Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_9f21a1",
+    "event_type": "summary_generated",
+    "feature": "email_summary",
+    "metadata": {
+      "source": "email_thread",
+      "thread_message_count": 12
+    }
+  },
+  {
+    "event_id": "evt_000004",
+    "timestamp": "2025-12-20T14:13:22Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_9f21a1",
+    "event_type": "context_expand",
+    "feature": "email_summary",
+    "metadata": {
+      "expanded_sections": ["older_messages", "attachments", "participants"]
+    }
+  },
+  {
+    "event_id": "evt_000005",
+    "timestamp": "2025-12-20T14:13:50Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_9f21a1",
+    "event_type": "open_source_item",
+    "feature": "email_summary",
+    "metadata": {
+      "item_type": "email_message",
+      "item_position_in_thread": 9
+    }
+  },
+
+  {
+    "event_id": "evt_000101",
+    "timestamp": "2025-12-28T16:01:11Z",
+    "user_id": "u_219",
+    "username": "PugLife",
+    "session_id": "s_2b6c7e",
+    "event_type": "app_open",
+    "feature": "app"
+  },
+  {
+    "event_id": "evt_000102",
+    "timestamp": "2025-12-28T16:01:28Z",
+    "user_id": "u_219",
+    "username": "PugLife",
+    "session_id": "s_2b6c7e",
+    "event_type": "feature_open",
+    "feature": "daily_insights"
+  },
+  {
+    "event_id": "evt_000103",
+    "timestamp": "2025-12-28T16:01:49Z",
+    "user_id": "u_219",
+    "username": "PugLife",
+    "session_id": "s_2b6c7e",
+    "event_type": "insights_viewed",
+    "feature": "daily_insights",
+    "metadata": {
+      "insight_count": 4
+    }
+  },
+  {
+    "event_id": "evt_000104",
+    "timestamp": "2025-12-28T16:02:04Z",
+    "user_id": "u_219",
+    "username": "PugLife",
+    "session_id": "s_2b6c7e",
+    "event_type": "insight_dismissed",
+    "feature": "daily_insights",
+    "metadata": {
+      "dismiss_reason": "not_relevant"
+    }
+  },
+
+  {
+    "event_id": "evt_000201",
+    "timestamp": "2025-12-22T09:44:02Z",
+    "user_id": "u_331",
+    "username": "NopawdyImportant",
+    "session_id": "s_7c19d0",
+    "event_type": "app_open",
+    "feature": "app"
+  },
+  {
+    "event_id": "evt_000202",
+    "timestamp": "2025-12-22T09:44:19Z",
+    "user_id": "u_331",
+    "username": "NopawdyImportant",
+    "session_id": "s_7c19d0",
+    "event_type": "feature_open",
+    "feature": "recommendations"
+  },
+  {
+    "event_id": "evt_000203",
+    "timestamp": "2025-12-22T09:44:40Z",
+    "user_id": "u_331",
+    "username": "NopawdyImportant",
+    "session_id": "s_7c19d0",
+    "event_type": "recommendations_loaded",
+    "feature": "recommendations",
+    "metadata": {
+      "recommendation_count": 6
+    }
+  },
+  {
+    "event_id": "evt_000204",
+    "timestamp": "2025-12-22T09:45:03Z",
+    "user_id": "u_331",
+    "username": "NopawdyImportant",
+    "session_id": "s_7c19d0",
+    "event_type": "recommendation_dismissed",
+    "feature": "recommendations",
+    "metadata": {
+      "reason": "too_generic"
+    }
+  },
+
+  {
+    "event_id": "evt_000301",
+    "timestamp": "2025-12-26T19:20:33Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "app_open",
+    "feature": "app"
+  },
+  {
+    "event_id": "evt_000302",
+    "timestamp": "2025-12-26T19:20:51Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "feature_open",
+    "feature": "email_summary"
+  },
+  {
+    "event_id": "evt_000303",
+    "timestamp": "2025-12-26T19:21:10Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "summary_generated",
+    "feature": "email_summary",
+    "metadata": {
+      "source": "email_thread",
+      "thread_message_count": 7
+    }
+  },
+  {
+    "event_id": "evt_000304",
+    "timestamp": "2025-12-26T19:21:22Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "open_source_item",
+    "feature": "email_summary",
+    "metadata": {
+      "item_type": "email_message",
+      "item_position_in_thread": 3
+    }
+  },
+  {
+    "event_id": "evt_000305",
+    "timestamp": "2025-12-26T19:22:05Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "feature_open",
+    "feature": "meeting_summary"
+  },
+  {
+    "event_id": "evt_000306",
+    "timestamp": "2025-12-26T19:22:39Z",
+    "user_id": "u_487",
+    "username": "CollieFlower",
+    "session_id": "s_1a44ce",
+    "event_type": "summary_generated",
+    "feature": "meeting_summary",
+    "metadata": {
+      "source": "calendar_meeting",
+      "attendee_count": 5
+    }
+  },
+
+  {
+    "event_id": "evt_000401",
+    "timestamp": "2026-01-15T18:33:10Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_b17d2a",
+    "event_type": "app_open",
+    "feature": "app",
+    "metadata": {
+      "app_version": "v2.1.0"
+    }
+  },
+  {
+    "event_id": "evt_000402",
+    "timestamp": "2026-01-15T18:33:31Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_b17d2a",
+    "event_type": "feature_open",
+    "feature": "email_summary",
+    "metadata": {
+      "app_version": "v2.1.0"
+    }
+  },
+  {
+    "event_id": "evt_000403",
+    "timestamp": "2026-01-15T18:33:54Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_b17d2a",
+    "event_type": "summary_generated",
+    "feature": "email_summary",
+    "metadata": {
+      "source": "email_thread",
+      "thread_message_count": 15,
+      "app_version": "v2.1.0"
+    }
+  },
+  {
+    "event_id": "evt_000404",
+    "timestamp": "2026-01-15T18:34:19Z",
+    "user_id": "u_102",
+    "username": "TheBeagles",
+    "session_id": "s_b17d2a",
+    "event_type": "report_missing_details",
+    "feature": "email_summary",
+    "metadata": {
+      "missing_fields": ["decisions", "action_items"],
+      "app_version": "v2.1.0"
+    }
+  }
+]
